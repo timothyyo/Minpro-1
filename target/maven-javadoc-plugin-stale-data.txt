@@ -1,0 +1,45 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'22'
+-sourcepath
+'C:/Users/Nitor 5 GK/Documents/NetBeansProjects/Main/src/main/java;C:/Users/Nitor 5 GK/Documents/NetBeansProjects/Main/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Nitor 5 GK/Documents/NetBeansProjects/Main/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Main 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Main 1.0-SNAPSHOT API'
+com.mycompany.Main
+rental
+rentalManagement
+C:\Users\Nitor 5 GK\Documents\NetBeansProjects\Main\src\main\java = 1727690659043
+C:\Users\Nitor 5 GK\Documents\NetBeansProjects\Main\target\generated-sources\annotations = 1727698892943
+C:\Users\Nitor 5 GK\Documents\NetBeansProjects\Main\target\reports\apidocs\allclasses-index.html = 1727698932623
+C:\Users\Nitor 5 GK\Documents\NetBeansProjects\Main\target\reports\apidocs\allpackages-index.html = 1727698932623
+C:\Users\Nitor 5 GK\Documents\NetBeansProjects\Main\target\reports\apidocs\element-list = 1727698932546
+C:\Users\Nitor 5 GK\Documents\NetBeansProjects\Main\target\reports\apidocs\help-doc.html = 1727698932663
+C:\Users\Nitor 5 GK\Documents\NetBeansProjects\Main\target\reports\apidocs\index-all.html = 1727698932657
+C:\Users\Nitor 5 GK\Documents\NetBeansProjects\Main\target\reports\apidocs\index.html = 1727698932612
+C:\Users\Nitor 5 GK\Documents\NetBeansProjects\Main\target\reports\apidocs\member-search-index.js = 1727698932640
+C:\Users\Nitor 5 GK\Documents\NetBeansProjects\Main\target\reports\apidocs\module-search-index.js = 1727698932623
+C:\Users\Nitor 5 GK\Documents\NetBeansProjects\Main\target\reports\apidocs\overview-summary.html = 1727698932663
+C:\Users\Nitor 5 GK\Documents\NetBeansProjects\Main\target\reports\apidocs\overview-tree.html = 1727698932607
+C:\Users\Nitor 5 GK\Documents\NetBeansProjects\Main\target\reports\apidocs\package-search-index.js = 1727698932623
+C:\Users\Nitor 5 GK\Documents\NetBeansProjects\Main\target\reports\apidocs\search.html = 1727698932661
+C:\Users\Nitor 5 GK\Documents\NetBeansProjects\Main\target\reports\apidocs\tag-search-index.js = 1727698932644
+C:\Users\Nitor 5 GK\Documents\NetBeansProjects\Main\target\reports\apidocs\type-search-index.js = 1727698932623
